@@ -23,3 +23,18 @@ html, css, javascript, react, node.js
 
 docker, bash, git, postgres
 
+## Example of code
+
+function even_or_odd(num) {
+return (num % 2 == 0) ? "Even" : "Odd";
+}
+
+## Education
+
+freecodecamp:JavaScript Algorithms and Data Structures
+
+some courses in udemy, coursera.
+
+## English
+
+B1
